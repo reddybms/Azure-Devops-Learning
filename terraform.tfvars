@@ -1,2 +1,2 @@
-resource_group_name = "rg-terraform-demo"
+resource_group_name = "tfstate-rg"
 location            = "Central India"
